@@ -1,10 +1,7 @@
 from collections import defaultdict
-from typing import Callable
+from typing import Iterable
 from lapdoc import OCRBox 
 from lapdoc.verbalizer.utils import LineRasterizer, LineRasterizerOptions, normalize_coords
-
-from typing import Callable, Iterable, Union
-
 from lapdoc import OCRBox
 
 

@@ -1,5 +1,4 @@
 from pathlib import Path
-import pathlib
 from lapdoc.verbalizer import LayoutUnawareVerbalizer, SpatialFormatVerbalizer, SpatialFormatYVerbalizer, BoundingBoxMarkupVerbalizer, DescriptiveBoundingBoxVerbalizer, CenterPointVerbalizer
 from lapdoc import OCRBox
 
